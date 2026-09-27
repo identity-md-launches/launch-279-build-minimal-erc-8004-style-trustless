@@ -1,0 +1,5 @@
+# Foundry build artifacts only. lib/ is vendored on purpose and must stay tracked.
+out/
+cache/
+broadcast/
+test/scratch/
